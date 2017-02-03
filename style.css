@@ -1,0 +1,83 @@
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 55px;
+    color:purple;
+}
+
+h2 {
+	font-family: 'Josefin Slab', serif;
+    font-size:30px;
+    color:aqua;
+}
+
+
+h3{
+	font-size :35px;
+    color:grey;
+
+}
+
+p{
+	font-size :28px;
+    color:white;
+}
+
+#abby{
+    font-size:30px;
+    color:lightblue;
+}
+
+
+
+body{
+	background:#cc99ff;
+}
+
+
+
+p{
+	font-family: 'Maven Pro', sans-serif;
+
+}
+
+#abibepl{
+        color:#66ffff;
+        font-size:32px;
+}
+
+
+#oneoneone {
+           color:#ffffcc;
+           font-size:31px;
+}
+
+
+
+#twenty{
+        color:#99ff99;
+        font-size:33px;
+}
+
+
+#rACEr{
+      color:#d9ffcc;
+      font-size:36px;
+}
+
+
+#blueflower{
+          color:#9999ff;
+          font-size:38px;
+}
+
+#kiddykat{
+          color:#ffcc99;
+          font-size:42px;
+}
+
+
+
+
+#after_submit {
+	        visibility: hidden;
+} 
